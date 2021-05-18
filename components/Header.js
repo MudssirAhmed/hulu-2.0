@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 import Image from "next/image";
 import HeaderItem from "./HeaderItem";
+=======
+import Image from 'next/image';
+import HeaderItem from './HeaderItem';
+>>>>>>> f79a8f05b1ae72e32074205809a7fddedc7a8288
 import {
   BadgeCheckIcon,
   CollectionIcon,
